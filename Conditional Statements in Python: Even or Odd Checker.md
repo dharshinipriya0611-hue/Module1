@@ -16,3 +16,4 @@ To write a Python program to check whether the given number is **even** or **odd
 ## Output
 
 ## Result
+Thus the result is verified.
